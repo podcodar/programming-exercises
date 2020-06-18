@@ -22,7 +22,7 @@ ex3:
      -1 -> se s1 é lexicograficamente menor que s2
      0 -> se s1 e s2 são identicas
      +1 -> se s1 é lexicograficamente maior que s2
-Referência: [Orderm lexicográfica](https://pt.wikipedia.org/wiki/Ordem_lexicogr%C3%A1fica#:~:text=Em%20matem%C3%A1tica%2C%20uma%20ordem%20lexicogr%C3%A1fica,cartesiano%20de%20dois%20conjuntos%20ordenados.)
+Referência: [Orderm lexicográfica](https://pt.wikipedia.org/wiki/Ordem_lexicogr%C3%A1fica)
 ex1:
 s1:'aaa', s2:'abc' -> -1
 ex2:
