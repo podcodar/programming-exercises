@@ -24,8 +24,13 @@ ex3:
      +1 -> se s1 é lexicograficamente maior que s2
 ex1:
 s1:'aaa', s2:'abc' -> -1
+ex2:
 s1:'ccc', s2:'ccc' -> 0
+ex3:
 s1:'zzz', s2:'aaa' -> +1
+ex4:
 s1:'a', s2:'aa' -> -1
+ex5:
 s1:'', s2:'a' -> -1
+ex6:
 s1:'', s2:'' -> 0
